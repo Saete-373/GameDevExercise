@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bc76dc5a1dff3b4e9ba1fa6a0e64d7d, type: 3}
+  m_Name: Storage
+  m_EditorClassIdentifier: Assembly-CSharp::CraftedObjectData
+  _itemID: 4
+  _itemName: Storage
+  _icon: {fileID: 21300000, guid: 7b1c6b8a524512a4cbda7f26b584b632, type: 3}
+  _maxStack: 1
+  _itemType: 3
+  _prefab: {fileID: 3529749401090013973, guid: 8c57d4d538f4cf048a6e4454308be57e, type: 3}
+  _worldSprite: {fileID: 21300000, guid: 053e93f442e0e794da46a1cb9c2d670c, type: 3}

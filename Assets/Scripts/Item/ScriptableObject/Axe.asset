@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4a58f82dd5fc54799bf1eb0f293129, type: 3}
+  m_Name: Axe
+  m_EditorClassIdentifier: Assembly-CSharp::ToolData
+  _itemID: 5
+  _itemName: Axe
+  _icon: {fileID: 21300000, guid: 932993cb61851734db6b30e2d6949599, type: 3}
+  _maxStack: 1
+  _itemType: 1
+  _prefab: {fileID: 3529749401090013973, guid: 8c57d4d538f4cf048a6e4454308be57e, type: 3}
+  _worldSprite: {fileID: 21300000, guid: 5f8b1af4144f83140995b467ade685bc, type: 3}
+  _equipPrefab: {fileID: 3333030443979568566, guid: 0d0f62bd33bb6864bbc54b085b15f612, type: 3}
+  _damage: 0
+  _toolType: 0
